@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot 2024-11-19 121615](https://github.com/user-attachments/assets/a092f063-c4b5-4eee-b9ab-2fa1419a9ea2)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,9 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
-
-
+ ![Screenshot 2024-11-19 121643](https://github.com/user-attachments/assets/eb985444-f091-4ff8-9118-bc3eec23c283)
 
 iv)	Creating the new test cell view
 
@@ -79,10 +77,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
-
- 
+![Screenshot 2024-11-19 121731](https://github.com/user-attachments/assets/d49cd979-a120-4ac2-a740-6b5f49c57d6a)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -95,16 +90,12 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
-
+![Screenshot 2024-11-19 121824](https://github.com/user-attachments/assets/d10ef56b-d6a3-4e7c-8428-57544a473bf0)
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![Screenshot 2024-11-19 121906](https://github.com/user-attachments/assets/a34722ae-c846-40df-8bdb-a4228fc9efe4)
 
-
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
-
-  
+ ![Screenshot 2024-11-19 121946](https://github.com/user-attachments/assets/ab2c9fc8-d910-4fdd-88f1-88a911aa57de)
 
 Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
