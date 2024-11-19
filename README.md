@@ -26,7 +26,6 @@ iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
-
 i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
@@ -49,7 +48,6 @@ ii)	Create Schematic Cell view.
 	Click Check and Save button
 
 ![Screenshot 2024-11-19 121615](https://github.com/user-attachments/assets/a092f063-c4b5-4eee-b9ab-2fa1419a9ea2)
-
  
 iii)	Creating the Symbol for schematic Cell view
 
